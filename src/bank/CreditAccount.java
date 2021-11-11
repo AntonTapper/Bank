@@ -30,7 +30,7 @@ public class CreditAccount
 
     private void getAccountNumberFromFile() throws FileNotFoundException
     {
-        Scanner in = new Scanner(new File("AccountNumber.txt"));
+        Scanner in = new Scanner(new File("CreditAccountNumber.txt"));
         String s = in.nextLine();
         int konto = Integer.parseInt(s);
         this.accountNumber = konto;
