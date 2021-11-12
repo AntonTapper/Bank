@@ -12,7 +12,6 @@ import java.util.Calendar;
  */
 class Transaction
 {
-
     private final int accountNumber;
     private final String accountType;
     private double oldSum;

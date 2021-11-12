@@ -10,7 +10,6 @@ import java.util.Scanner;
 
 public class CreditAccount
 {
-
     private long personalNumber;
     private int accountNumber;
     private String accountType = "c";

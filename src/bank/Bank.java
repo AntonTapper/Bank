@@ -16,8 +16,6 @@ import java.util.ArrayList;
 
 public class Bank
 {
-    
-    
     private static ArrayList<Customer> customerList;
 
     public static void main(String[] args) throws IOException

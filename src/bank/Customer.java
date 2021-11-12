@@ -15,7 +15,6 @@ import java.util.ArrayList;
 
 public class Customer
 {
-
     private final String name;
     private final String lastName;
     private final long personalNumber;

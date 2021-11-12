@@ -28,7 +28,6 @@ import javax.swing.event.ListSelectionListener;
 
 public class BankGUI extends Bank
 {
-
     public static void Starting_Screen()
     {
         //JFrame--------------------------------------------------------------------
